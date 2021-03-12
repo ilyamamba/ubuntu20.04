@@ -1,1 +1,1 @@
-# Ubuntu 20.04 image docker web server nginx
+# Docker container image containing a large number of different Worm, Spyware, Adware, Winlock, Trojan
