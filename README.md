@@ -1,1 +1,1 @@
-# Docker container image containing a large number of different Worm, Spyware, Adware, Winlock, Trojan
+# Docker container image having inside some kind Worm, Spyware, Adware, Trojan,Trojan.Encoder.225
